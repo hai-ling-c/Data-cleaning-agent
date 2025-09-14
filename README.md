@@ -2,6 +2,10 @@
 
 A Jupyter-based agent that leverages LangChain and OpenAI to perform common data-cleaning tasks (e.g., imputing missing values, generating data summaries) via generated Python code.
 
+## Table of Contents
+- [Prerequisites](#prerequisites)
+- [Stepup](#setup)
+
 ## Prerequisites
 
 - Anaconda or Miniconda installed
@@ -71,6 +75,10 @@ Open `main.ipynb` and run the first cell:
 %pip import-ipynb
 ...
 ```
+
+## Step 6: Launch APP
+
+Open `app.ipynb` and run all blocks. The final output should provide a local URL for you to access the website. 
 
 ## Adding New Features
 
