@@ -76,7 +76,7 @@ Open `main.ipynb` and run the first cell:
 ...
 ```
 
-## Step 6: Launch APP
+### Step 6: Launch APP
 
 Open `app.ipynb` and run all blocks. The final output should provide a local URL for you to access the website. 
 
