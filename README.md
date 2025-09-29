@@ -1,5 +1,7 @@
 # Data Cleaning Agent
 
+This repository is built upon a workshop demo: https://github.com/Tchanwangsa/Data-Cleaning-Agent_Workshop-Version from the Collaboration Workshop on Generative AI (UWA DSC X UoM DSCubed)
+
 A Jupyter-based agent that leverages LangChain and OpenAI to perform common data-cleaning tasks (e.g., imputing missing values, generating data summaries) via generated Python code.
 
 ## Table of Contents
